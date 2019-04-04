@@ -1,0 +1,13 @@
+{
+    "name": "cyrano/quete-composer",
+    "description": "quete_composer",
+    "authors": [
+        {
+            "name": "Vanina Diot",
+            "email": "vanina.diot@gmail.com"
+        }
+    ],
+    "require": {
+        "ehime/hello-world": "^1.0"
+    }
+}
