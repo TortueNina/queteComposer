@@ -7,7 +7,6 @@
  */
 
 require __DIR__ . '/../vendor/autoload.php';
-require '../src/Wcs/Hello.php';
 
 
 echo \HelloWorld\SayHello::world();
