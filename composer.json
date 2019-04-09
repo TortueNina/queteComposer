@@ -15,4 +15,9 @@
             "HelloWorld": "src/"
         }
     }
+    "autoload": {
+        "psr-4": {
+            "App\\": "App"
+        }
+    }
 }
